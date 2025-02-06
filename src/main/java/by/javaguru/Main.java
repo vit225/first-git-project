@@ -5,7 +5,7 @@ public class Main {
         System.out.println("GIT DEVELOP");
         System.out.println("Hello world!");
         System.out.println("Hello world!!!!");
-        System.out.println("It's terribly difficult");
+        System.out.println("It's terribly difficult fgghth");
         System.out.println("I'm happy");
         System.out.println("!!!!");
     }
